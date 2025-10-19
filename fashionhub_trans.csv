@@ -1,0 +1,21 @@
+Transaction ID|Transaction
+Trans1|A, B, C, F
+Trans2|A, B, C, F
+Trans3|A, B, C, D
+Trans4|A, B, C, D, E, F
+Trans5|A, B, D, E, H
+Trans6|A, D, E, H
+Trans7|A, E, H, F
+Trans8|A, E, H
+Trans9|A, C, E, H
+Trans10|A, C, E, H
+Trans11|A, C, E, H
+Trans12|I, J, F
+Trans13|I, J, A, E
+Trans14|I, J, G 
+Trans15|I, J, G, H
+Trans16|I, J, G, H
+Trans17|I, J, G, H
+Trans18|I, E, H
+Trans19|I, A, H
+Trans20|I, H, H
