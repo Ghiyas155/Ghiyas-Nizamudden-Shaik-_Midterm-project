@@ -1,1 +1,0 @@
-# Ghiyas-Nizamudden-Shaik-_Midterm-project
